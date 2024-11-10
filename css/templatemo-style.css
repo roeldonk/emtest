@@ -133,7 +133,7 @@ transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
 	height: 100vh;
 	text-align: center;
 }
-#home h2 {
+#home h4 {
 	letter-spacing: 2px;
 }
 #home .btn {
